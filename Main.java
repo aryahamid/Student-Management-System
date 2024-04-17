@@ -1,4 +1,5 @@
 import java.util.Scanner;
+import tools.*;
 
 class Main{
     public static void main(String[] args)

@@ -1,3 +1,5 @@
+package tools;
+
 public class Set {
     public static void setUp(Student[] students) {
         students[0]=new Student("Ali Rahimi","OOP Java",77.9);

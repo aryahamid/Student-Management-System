@@ -1,5 +1,8 @@
+package tools;
+
 import java.util.Objects;
 import java.util.Scanner;
+
 public class Controller {
     static Scanner read=new Scanner(System.in);
     //it displays info of all students.
